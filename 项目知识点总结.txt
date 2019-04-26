@@ -1,0 +1,17 @@
+1.fastclick 
+cnpm install fastclick
+解决300毫秒延迟
+
+2.项目打包 执行 npm run build 这个指令  生成一个dist 文件夹 这个文件夹   这个文件夹就是我们最终大包的项目
+webpck 会把我们的vue项目 打包成 普通的html+js+css 项目 并且进行压缩 es6=>es5
+把js  会压缩成一个包 当网络 请求的时候会 都
+
+
+
+
+
+
+
+
+
+
